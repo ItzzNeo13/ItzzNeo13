@@ -1,7 +1,4 @@
-### Hi there 👋 I'm Prasad Ghaisas
-
-## 
-### Hi there 👋, I'm ItzzNeo13
+ ### Hi there 👋, I'm ItzzNeo13
 My name is Prasad Ghaisas. I am from India. I am currently studying in college. I like to code and play games in my free time. I like to code in HTML and Python.
 
 Skills: Python | HTML
