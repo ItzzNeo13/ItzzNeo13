@@ -1,4 +1,6 @@
  ### Hi there 👋, I'm ItzzNeo13
+ ##
+ 
 My name is Prasad Ghaisas. I am from India. I am currently studying in college. I like to code and play games in my free time. I like to code in HTML and Python.
 
 Skills: Python | HTML
@@ -25,6 +27,11 @@ Skills: Python | HTML
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzzNeo13&show_icons=true&count_private=true&theme=dark)  
 
+##
+
 **Your precious visit is recorded here** ⬇️
 
 ![Profile views](https://gpvc.arturio.dev/ItzzNeo13)  
+
+##
+**Thanks for visting, Have a great day ahead!!**
