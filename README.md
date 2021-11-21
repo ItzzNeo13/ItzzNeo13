@@ -27,6 +27,10 @@ Skills: Python | HTML
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzzNeo13&show_icons=true&count_private=true&theme=dark)  
 
+## My Top Languages - 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzzNeo13)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ##
 
 **Your precious visit is recorded here** ⬇️
