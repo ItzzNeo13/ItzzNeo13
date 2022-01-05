@@ -1,15 +1,15 @@
  ### Hi there 👋, I'm ItzzNeo13
  ##
  
-My name is Prasad Ghaisas. I am from India. I am currently studying in college. I like to code and play games in my free time. I like to code in HTML and Python.
+My name is Prasad Ghaisas. I am from India. I am currently studying in college. I like to code and play games in my free time. I like to code in Python and develop Websites
 
-Skills: Python | HTML
+Skills: Python | HTML & CSS
 
 - 🔭 I’m currently working on improving my programming skills 
-- 🌱 I’m currently learning Tkinter 
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me: Twitter or Instagram 
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I like to play games on phone ;) 
+- ⚡ Fun fact: I like to be Minimalistic
 
 ##
 
