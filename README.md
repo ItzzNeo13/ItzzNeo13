@@ -7,9 +7,9 @@ Skills: Python | HTML & CSS
 
 - 🔭 I’m currently working on improving my programming skills 
 - 🌱 I’m currently learning Javascript
-- 📫 How to reach me: Twitter or Instagram 
+- 📫 How to reach me: Twitter or Discord
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I like to be Minimalistic
+- ⚡ Fun fact: I like listening music
 
 ##
 
