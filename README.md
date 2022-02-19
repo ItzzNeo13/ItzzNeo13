@@ -45,5 +45,5 @@ _Current Profile Visits_ (resets monthly) - ![Profile views](https://gpvc.arturi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzzNeo13)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
-**Thanks for visting, Have a great day ahead!!**
+**Thanks for visting, have a great day ahead!!**
 #
