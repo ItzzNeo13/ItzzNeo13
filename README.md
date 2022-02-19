@@ -22,18 +22,20 @@ Skills: Python | HTML & CSS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://itzzneo13.github.io)
 
 ##
+**Current social media stats** -
 
+_Current Reddit Karma_ - ![Reddit](https://img.shields.io/reddit/user-karma/combined/neomaster13?style=social)
+
+_Current YouTube subscribers_ - ![YouTube](https://img.shields.io/youtube/channel/subscribers/UCQk5c315mey6VOzdB8Rhs5w?style=social)
+
+_Current Twitter Followers_ - ![Twitter](https://img.shields.io/twitter/follow/itzzneo13?style=social)
+#
 **Discord Activity** -
 
 ![Discord](https://discord.c99.nl/widget/theme-1/756200102342688788.png)
 
-**My Badges** -
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+#
+**Social Media Stats** - 
 
 ## My Stats -
 
