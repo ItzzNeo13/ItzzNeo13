@@ -31,25 +31,19 @@ _Current YouTube subscribers_ - ![YouTube](https://img.shields.io/youtube/channe
 _Current Twitter Followers_ - ![Twitter](https://img.shields.io/twitter/follow/itzzneo13?style=social)
 
 _Current Github Sponsors_ - ![Github](https://img.shields.io/github/sponsors/Itzzneo13)
+
+_Current Profile Visits_ (resets monthly) - ![Profile views](https://gpvc.arturio.dev/ItzzNeo13)  
 #
 **Discord Activity** -
 
 ![Discord](https://discord.c99.nl/widget/theme-1/756200102342688788.png)
 
 #
-## My Stats -
+## MyProfile Stats -
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzzNeo13&show_icons=true&count_private=true&theme=dark)  
-
-## My Top Languages - 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzzNeo13&show_icons=true&count_private=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzzNeo13)](https://github.com/anuraghazra/github-readme-stats)
-
-
-##
-
-**Your precious visit is recorded here** ⬇️
-
-![Profile views](https://gpvc.arturio.dev/ItzzNeo13)  
 
 ##
 **Thanks for visting, Have a great day ahead!!**
+#
