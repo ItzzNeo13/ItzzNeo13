@@ -35,8 +35,6 @@ _Current Twitter Followers_ - ![Twitter](https://img.shields.io/twitter/follow/i
 ![Discord](https://discord.c99.nl/widget/theme-1/756200102342688788.png)
 
 #
-**Social Media Stats** - 
-
 ## My Stats -
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzzNeo13&show_icons=true&count_private=true&theme=dark)  
