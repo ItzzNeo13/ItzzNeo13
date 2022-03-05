@@ -56,9 +56,11 @@ _Current Profile Visits_ - ![Profile views](https://gpvc.arturio.dev/ItzzNeo13)
 ![Discord](https://discord.c99.nl/widget/theme-1/756200102342688788.png)
 #
 
-### Twitter Activity - 
-[![Twitter](https://github-readme-twitter.gazf.vercel.app/api?id=ItzzNeo13&layout=normal&show_reply=off)](https://twitter.com/ItzzNeo13)
-#
+
+### All-time Github Stats -
+![GitHub metrics](https://metrics.lecoq.io/ItzzNeo13)  
+
+
 
 ### Spotify Activity - 
 
