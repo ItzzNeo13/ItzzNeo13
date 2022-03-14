@@ -102,7 +102,7 @@ _Current Profile Visits_ - ![Profile views](https://gpvc.arturio.dev/ItzzNeo13)
 ### Repo Stats - 
 <div align="center">
  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">
-<img src="https://img.shields.io/github/license/ItzzNeo13/ItzzNeo13.svg">
+<img src="https://img.shields.io/github/license/ItzzNeo13/ItzzNeo13?style=for-the-badge">
 <img src="https://img.shields.io/github/stars/ItzzNeo13/ItzzNeo13.svg">
 <img src="https://img.shields.io/github/forks/ItzzNeo13/ItzzNeo13.svg">
 <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
