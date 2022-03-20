@@ -11,7 +11,7 @@
 
 - 📫 How to reach me - **My Instagram or Twitter**
 
-- ⚡ Fun fact - **I like listening to sad songs**
+- ⚡ Fun fact - **I have a organization that might help you. Check it out [here](https://github.com/TheMarkdownNerds)**
 
 ##
 **Current social media stats** -
