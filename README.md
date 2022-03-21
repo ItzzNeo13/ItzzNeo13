@@ -38,12 +38,12 @@ _Current Profile Visits_ - ![Profile views](https://gpvc.arturio.dev/ItzzNeo13)
 </div>
 
 #
-<h4 align="center"> Softwares and OS:</h4>
-<h5 align="center"> OS :</h5>
+<h4 align="center"> More Info:</h4>
+<h5 align="center"> Device OS :</h5>
 <div align="center">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
- <h5 align="center"> Softwares I use :</h5>
+ <h5 align="center"> I am active on:</h5>
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white">
