@@ -55,11 +55,6 @@ _Current Profile Visits_ - ![Profile views](https://gpvc.arturio.dev/ItzzNeo13)
 
 #
 
-### Top Used languages by me - 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzzneo13&show_icons=true&locale=en&layout=compact" alt="itzzneo13" /></p>
-
-#
-
 💻 PC Info -
 
  ```
@@ -96,6 +91,10 @@ _Current Profile Visits_ - ![Profile views](https://gpvc.arturio.dev/ItzzNeo13)
 
 ### All-time Github Stats -
 ![GitHub metrics](https://metrics.lecoq.io/ItzzNeo13)  
+
+#
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzzneo13&" alt="itzzneo13" /></p>
 
 #
 ### Repo Stats - 
