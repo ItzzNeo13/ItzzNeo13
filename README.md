@@ -59,7 +59,7 @@ _Current Profile Visits_ - ![Profile views](https://gpvc.arturio.dev/ItzzNeo13)
 💻 PC Info -
 
  ```
- OS: Windows 10 Home Single Language /n
+ OS: Windows 10 Home Single Language
  Version: 21H2
  OS Build: 19044.1526 
  Laptop: HP 15 Pentium 
