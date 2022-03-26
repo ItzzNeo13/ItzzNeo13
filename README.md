@@ -60,7 +60,7 @@ _Current Profile Visits_ - ![Profile views](https://gpvc.arturio.dev/ItzzNeo13)
 <a href="https://www.reddit.com/user/neomaster13" target="_blank">
 <img src=https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white alt=reddit style="margin-bottom: 5px;" />
 </a>
-<a href="https:discord.gg/VbbnMzV9RZ" target="_blank">
+<a href="https://discord.gg/VbbnMzV9RZ" target="_blank">
 <img src=https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
  
