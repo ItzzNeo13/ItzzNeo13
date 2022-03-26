@@ -50,7 +50,20 @@ _Current Profile Visits_ - ![Profile views](https://gpvc.arturio.dev/ItzzNeo13)
 </a>
 <a href="https://instagram.com/ItzzNeo13" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://open.spotify.com/user/dc90xmqlj32pxk5pqxwdyxt8w?si=UjaAw4VzRBeY9YSRkRFKPA" target="_blank">
+<img src=https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white alt=spotify style="margin-bottom: 5px;" />
+</a>
+<a href="https://steamcommunity.com/id/itzzneo13/" target="_blank">
+<img src=https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white alt=steam style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.reddit.com/user/neomaster13" target="_blank">
+<img src=https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white alt=reddit style="margin-bottom: 5px;" />
+</a>
+<a href="https:discord.gg/VbbnMzV9RZ" target="_blank">
+<img src=https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+ 
 </div>  
 
 #
