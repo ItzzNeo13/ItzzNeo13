@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Developer and CS Enthusiast from India</h3>
 
 ### About me -
-- 🔭 I’m currently working on [Url-Reaper](https://github.com/Url-Reaper) & [TheMarkdownNerds](https://github.com/TheMarkdownNerds)
+- 🔭 I’m currently working on [@Url-Reaper](https://github.com/Url-Reaper) & [@TheMarkdownNerds](https://github.com/TheMarkdownNerds)
 
 - 🌱 I’m currently learning **UI development**
 
