@@ -92,7 +92,7 @@ _Current Profile Visits_ - ![Profile views](https://gpvc.arturio.dev/ItzzNeo13)
 ## My Current Activities -
 
 ### Discord Activity -
-![Discord](https://discord.c99.nl/widget/theme-1/756200102342688788.png)
+![Discord](https://discord.c99.nl/widget/theme-3/756200102342688788.png)
 #
 
 ### Spotify Activity - 
