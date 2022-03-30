@@ -48,9 +48,6 @@ _Current Profile Visits_ - ![Profile views](https://gpvc.arturio.dev/ItzzNeo13)
 <a href="https://twitter.com/ItzzNeo13" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/ItzzNeo13" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
 <a href="https://open.spotify.com/user/dc90xmqlj32pxk5pqxwdyxt8w?si=UjaAw4VzRBeY9YSRkRFKPA" target="_blank">
 <img src=https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white alt=spotify style="margin-bottom: 5px;" />
 </a>
