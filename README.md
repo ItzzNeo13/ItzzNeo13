@@ -65,26 +65,7 @@ _Current Profile Visits_ - ![Profile views](https://gpvc.arturio.dev/ItzzNeo13)
 
 #
 
-💻 PC Info -
 
- ```
- OS: Windows 10 Home Single Language
- Version: 21H2
- OS Build: 19044.1526 
- Laptop: HP 15 Pentium 
- Processor: Intel(R) Pentium(R) CPU 6405U @ 2.40GHz
- RAM: 4.00 GB
- System type: 64-bit operating system, x64-based processor
- ```
- #
- 
- 👨‍💻 Softwares I use -
- ```
- Music: Spotify
- Browser: Brave & Tor
- Code Editor: VSCode
- Gfx(banners and logos): Canva
-```
 
 ## My Current Activities -
 
