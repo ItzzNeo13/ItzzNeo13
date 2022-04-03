@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Developer and CS Enthusiast from India</h3>
 
 ### About me -
-- 🔭 Contributing to: [@url-Reaper](https://github.com/url-reaper), [@TheMarkdownNerds](https://github.com/TheMarkdownNerds), [@Team-Dark-Developers](https://github.com/Team-Dark-Developers)
+- 🔭 Contributing to: [@url-Reaper](https://github.com/url-reaper), [@TheMarkdownNerds](https://github.com/TheMarkdownNerds) & [@Team-Dark-Developers](https://github.com/Team-Dark-Developers)
 
 - 🌱 I’m currently learning **UI development**
 
