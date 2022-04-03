@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Developer and CS Enthusiast from India</h3>
 
 ### About me -
-- 🔭 I’m currently working on [@Url-Reaper](https://github.com/Url-Reaper) & [@TheMarkdownNerds](https://github.com/TheMarkdownNerds)
+- 🔭 Contributing to: [@url-Reaper](https://github.com/url-reaper), [@TheMarkdownNerds](https://github.com/TheMarkdownNerds), [@Team-Dark-Developers](https://github.com/Team-Dark-Developers)
 
 - 🌱 I’m currently learning **UI development**
 
@@ -76,12 +76,6 @@ _Current Profile Visits_ - ![Profile views](https://gpvc.arturio.dev/ItzzNeo13)
 ### Spotify Activity - 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dc90xmqlj32pxk5pqxwdyxt8w&cover_image=false&theme=default&bar_color=e5f0f0&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=dc90xmqlj32pxk5pqxwdyxt8w&redirect=true)
-
-#
-
-
-### All-time Github Stats -
-![GitHub metrics](https://metrics.lecoq.io/ItzzNeo13)  
 
 #
 
