@@ -75,8 +75,7 @@ _Current Profile Visits_ - ![Profile views](https://gpvc.arturio.dev/ItzzNeo13)
 
 ### Spotify Activity - 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dc90xmqlj32pxk5pqxwdyxt8w&cover_image=false&theme=default&bar_color=e5f0f0&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=dc90xmqlj32pxk5pqxwdyxt8w&redirect=true)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dc90xmqlj32pxk5pqxwdyxt8w&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=dc90xmqlj32pxk5pqxwdyxt8w&redirect=true)
 #
 
 ### GitHub Streak - 
