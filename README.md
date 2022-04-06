@@ -79,7 +79,9 @@ _Current Profile Visits_ - ![Profile views](https://gpvc.arturio.dev/ItzzNeo13)
 
 #
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzzneo13&" alt="itzzneo13" /></p>
+### GitHub Streak - 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ItzzNeo13&theme=great-gatsby&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=0ABCDD)](https://git.io/streak-stats)
 
 #
 ### Repo Stats - 
