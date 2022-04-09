@@ -78,9 +78,9 @@ _Current Profile Visits_ - ![Profile views](https://gpvc.arturio.dev/ItzzNeo13)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dc90xmqlj32pxk5pqxwdyxt8w&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=dc90xmqlj32pxk5pqxwdyxt8w&redirect=true)
 #
 
-### GitHub Streak - 
+### GitHub Overview - 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ItzzNeo13&theme=great-gatsby&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=0ABCDD)](https://git.io/streak-stats)
+[![Stats Overview](https://raw.githubusercontent.com/ItzzNeo13/github-stats-transparent/output/generated/overview.svg)](https://github.com/rahul-jha98/github-stats-transparent)
 
 #
 ### Repo Stats - 
