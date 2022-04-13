@@ -2,7 +2,7 @@
 ![Header](./github-header.png)
 
 <h1 align="center">Hi 👋, I'm Prasad Ghaisas aka ItzzNeo13</h1>
-<h3 align="center">A passionate Developer and CS Enthusiast from India</h3>
+<h3 align="center">A passionate Bot, Web & UI Developer and CS Enthusiast from India</h3>
 
 ### About me -
 - 🔭 Contributing to: [@url-reaper](https://github.com/url-reaper), [@TheMarkdownNerds](https://github.com/TheMarkdownNerds) & [@Team-Dark-Developers](https://github.com/Team-Dark-Developers)
