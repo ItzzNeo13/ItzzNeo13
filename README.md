@@ -31,6 +31,7 @@ _Current Profile Visits_ - ![Profile views](https://gpvc.arturio.dev/ItzzNeo13)
 <h3 align="center">Languages :</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=c&logoColor=white">
+<!--<img src="https://img.shields.io/badge/Brainfuck-000000?style=for-the-badge&logo=brainfuck&logoColor=white">-->
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black">
 <img src="https://img.shields.io/badge/HTML-F06529?style=for-the-badge&logo=html5&logoColor=white">
 <!--<br>-->
