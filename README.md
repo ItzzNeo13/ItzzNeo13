@@ -42,8 +42,9 @@ _Current Profile Visits_ - ![Profile views](https://gpvc.arturio.dev/ItzzNeo13)
 
 #
 
-### Check out my socials -
 
+
+<h3 align="center">Check out my socials: </h3>
 <div align="center">
 <a href="https://github.com/ItzzNeo13" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -64,9 +65,31 @@ _Current Profile Visits_ - ![Profile views](https://gpvc.arturio.dev/ItzzNeo13)
 <img src=https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
  
-</div>  
+</div>
 
 #
+
+<h3 align="center">
+Os, Softwares and tools I use - 
+</h3>
+
+#
+<h4 align="center">OS:</h4>
+<div align=center>
+<img src="https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white" alt="windows">
+<img src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white" at="Android">
+</div>
+
+#
+
+<h4 align="center">Softwares & tools:</h4>
+<div align="center">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="VS Code">
+<img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt"Figma">
+<img src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
+<img src="https://img.shields.io/badge/Dribbble-EA4C89.svg?style=for-the-badge&logo=Dribbble&logoColor=white" alt="Dribbble">
+<img src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white" alt="Stack Overflow"
+</div>
 
 
 
@@ -84,6 +107,8 @@ _Current Profile Visits_ - ![Profile views](https://gpvc.arturio.dev/ItzzNeo13)
 ### GitHub Overview - 
 
 [![Stats Overview](https://raw.githubusercontent.com/ItzzNeo13/github-stats-transparent/output/generated/overview.svg)](https://github.com/rahul-jha98/github-stats-transparent)
+
+![Repo-Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzzNeo13&theme=dark)
 
 #
 ### Repo Stats - 
