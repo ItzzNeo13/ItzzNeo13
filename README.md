@@ -31,9 +31,9 @@ _Current Profile Visits_ - ![Profile views](https://gpvc.arturio.dev/ItzzNeo13)
 <h3 align="center">Languages :</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=c&logoColor=white">
-<!--<img src="https://img.shields.io/badge/Brainfuck-000000?style=for-the-badge&logo=brainfuck&logoColor=white">-->
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black">
 <img src="https://img.shields.io/badge/HTML-F06529?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white">
 <!--<br>-->
 <img src="https://img.shields.io/badge/CSS-2965F1?&style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
@@ -87,9 +87,13 @@ Os, Softwares and tools I use -
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="VS Code">
 <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt"Figma">
 <img src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
-<img src="https://img.shields.io/badge/Dribbble-EA4C89.svg?style=for-the-badge&logo=Dribbble&logoColor=white" alt="Dribbble">
-<img src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white" alt="Stack Overflow"
+<img src="https://img.shields.io/badge/Dribbble-EA4C89.svg?style=for-the-badge&logo=Dribbble&logoColor=white" alt="Dribbble"><br>
+<img src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white" alt="Stack Overflow"> 
+<img src="https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white" alt="Spotify">
+<img src="https://img.shields.io/badge/Google%20Fonts-4285F4.svg?style=for-the-badge&logo=Google-Fonts&logoColor=white" alt="Google Fonts">
+<img src="https://img.shields.io/badge/Shields.io-000000.svg?style=for-the-badge&logo=shieldsdotio&logoColor=white" alt="shield.io">
 </div>
+
 
 
 
