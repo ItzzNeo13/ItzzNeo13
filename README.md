@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **UI development**
 
-- 📫 How to reach me - **My Instagram or Twitter**
+- 📫 How to reach me - Best way to contact me is [here](https://itzzneo13.github.io/contact.html) or you can drop a mail to devneo13@gmail.com
 
 - ⚡ Fun fact - **I have a organization that might help you. Check it out [here](https://github.com/TheMarkdownNerds)**
 
