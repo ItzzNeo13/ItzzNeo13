@@ -78,21 +78,21 @@ Os, Softwares and tools I use -
 <div align=center>
 <img src="https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white" alt="windows">
 <img src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white" at="Android">
-<!--<img src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white" alt="Kali Linux">-->
+<a href="https://kali.org"><img src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white" alt="Kali Linux"></a>
 </div>
 
 #
 
 <h4 align="center">Softwares & tools:</h4>
 <div align="center">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="VS Code">
-<img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt"Figma">
-<img src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
-<img src="https://img.shields.io/badge/Dribbble-EA4C89.svg?style=for-the-badge&logo=Dribbble&logoColor=white" alt="Dribbble"><br>
-<img src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white" alt="Stack Overflow"> 
-<img src="https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white" alt="Spotify">
-<img src="https://img.shields.io/badge/Google%20Fonts-4285F4.svg?style=for-the-badge&logo=Google-Fonts&logoColor=white" alt="Google Fonts">
-<img src="https://img.shields.io/badge/Shields.io-000000.svg?style=for-the-badge&logo=shieldsdotio&logoColor=white" alt="shield.io">
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="VS Code"></a>
+<a href="https://figma.com"><img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt"Figma">
+<a href="https://www.canva.com/"><img src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
+<a href="https://dribbble.com/"><img src="https://img.shields.io/badge/Dribbble-EA4C89.svg?style=for-the-badge&logo=Dribbble&logoColor=white" alt="Dribbble"></a><br>
+<a href="https://stackoverflow.com"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white" alt="Stack Overflow"></a>
+<a href="https://spotify.com"><img src="https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://fonts.google.com"><img src="https://img.shields.io/badge/Google%20Fonts-4285F4.svg?style=for-the-badge&logo=Google-Fonts&logoColor=white" alt="Google Fonts"></a>
+<a href="https://shields.io"><img src="https://img.shields.io/badge/Shields.io-000000.svg?style=for-the-badge&logo=shieldsdotio&logoColor=white" alt="shield.io"></a>
 </div>
 
 
