@@ -77,9 +77,9 @@ Os, Softwares and tools I use -
 #
 <h4 align="center">OS:</h4>
 <div align=center>
-<img src="https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white" alt="windows">
-<img src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white" at="Android">
+<img src="https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white" alt="Windows">
 <a href="https://kali.org"><img src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white" alt="Kali Linux"></a>
+<img src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white" at="Android">
 </div>
 
 #
