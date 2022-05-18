@@ -1,9 +1,10 @@
+
+
+<h2>नमस्ते (Namaste)🙏🏻, I'm Prasad! <img src="./kali-preview-boot.gif" alt="Kali" width="225" height="225" align="right"></h2>
+<h3>A passionate Bot, Web & UI Developer and CS Enthusiast from India</h3>
+
+
  
-![header](./github-header.jpg)
-
-<h1 align="center">Hi 👋, I'm Prasad Ghaisas aka ItzzNeo13</h1>
-<h3 align="center">A passionate Bot, Web & UI Developer and CS Enthusiast from India</h3>
-
 ### About me -
 - 🔭 Contributing to: [@url-reaper](https://github.com/url-reaper), [@TheMarkdownNerds](https://github.com/TheMarkdownNerds) & [@Team-Dark-Developers](https://github.com/Team-Dark-Developers)
 
