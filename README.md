@@ -1,11 +1,10 @@
-
-
-<h2>नमस्ते (Namaste)🙏🏻, I'm Prasad! <img src="./kali-preview-boot.gif" alt="Kali" width="225" height="225" align="right"></h2>
+<h2>नमस्ते (Namaste)🙏🏻, I'm Prasad!
+<!--<img src="./kali-preview-boot.gif" alt="Kali" width="225" height="225"></h2>-->
 <h3>A passionate Bot, Web & UI Developer and CS Enthusiast from India</h3>
 
+<br>
 
- 
-### About me -
+About me -
 - 🔭 Contributing to: [@url-reaper](https://github.com/url-reaper), [@TheMarkdownNerds](https://github.com/TheMarkdownNerds) & [@Team-Dark-Developers](https://github.com/Team-Dark-Developers)
 
 - 🌱 I’m currently learning **UI development**
@@ -15,6 +14,7 @@
 - ⚡ Fun fact - **I have a organization that might help you. Check it out [here](https://github.com/TheMarkdownNerds)**
 
 ##
+
 **Current social media stats** -
 
 _Current Reddit Karma_ - ![Reddit](https://img.shields.io/reddit/user-karma/combined/neomaster13?style=social)
