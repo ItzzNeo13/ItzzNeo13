@@ -102,7 +102,8 @@ Os, Softwares and tools I use -
 ## My Current Activities -
 
 ### Discord Activity -
-![Discord](https://discord.c99.nl/widget/theme-3/756200102342688788.png)
+<a href="https://discord.com/users/756200102342688788"><img src="https://lanyard.cnrad.dev/api/756200102342688788?theme=dark&idleMessage=Stoicism%20|%20Eudamoniac"></a>
+
 #
 
 ### Spotify Activity - 
