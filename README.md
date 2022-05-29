@@ -28,23 +28,7 @@ _Current Github Sponsors_ - ![Github](https://img.shields.io/github/sponsors/Itz
 _Current Profile Visits_ - ![Profile views](https://gpvc.arturio.dev/ItzzNeo13)
 
 #
-
-<h3 align="center">Languages :</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black">
-<img src="https://img.shields.io/badge/HTML-F06529?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white">
-<!--<br>-->
-<img src="https://img.shields.io/badge/CSS-2965F1?&style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-</div>
-
-#
-
-
-
+ 
 <h3 align="center">Check out my socials: </h3>
 <div align="center">
 <a href="https://github.com/ItzzNeo13" target="_blank">
@@ -63,29 +47,38 @@ _Current Profile Visits_ - ![Profile views](https://gpvc.arturio.dev/ItzzNeo13)
 <img src=https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white alt=reddit style="margin-bottom: 5px;" />
 </a>
 <a href="https://discord.gg/VbbnMzV9RZ" target="_blank">
-<img src=https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
  
 </div>
 
+
+<h3 align="center">Languages :</h3>
+<div align="center">
+<img src="https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black">
+<img src="https://img.shields.io/badge/HTML-F06529?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white">
+<!--<br>-->
+<img src="https://img.shields.io/badge/CSS-2965F1?&style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</div>
+
 #
 
-<h3 align="center">
-Os, Softwares and tools I use - 
-</h3>
-
-#
-<h4 align="center">OS:</h4>
-<div align=center>
+<details><summary><h3>Os, Softwares and tools I use - </h3></summary><h4>OS:</h4>
+<div>
 <img src="https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white" alt="Windows">
 <a href="https://kali.org"><img src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white" alt="Kali Linux"></a>
 <img src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white" at="Android">
 </div>
 
+
 #
 
-<h4 align="center">Softwares & tools:</h4>
-<div align="center">
+<h4>Softwares & tools:</h4>
+<div>
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="VS Code"></a>
 <a href="https://figma.com"><img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt"Figma">
 <a href="https://www.canva.com/"><img src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
@@ -95,8 +88,9 @@ Os, Softwares and tools I use -
 <a href="https://fonts.google.com"><img src="https://img.shields.io/badge/Google%20Fonts-4285F4.svg?style=for-the-badge&logo=Google-Fonts&logoColor=white" alt="Google Fonts"></a>
 <a href="https://shields.io"><img src="https://img.shields.io/badge/Shields.io-000000.svg?style=for-the-badge&logo=shieldsdotio&logoColor=white" alt="shield.io"></a>
 </div>
+</details>
 
-
+#
 
 
 ## My Current Activities -
