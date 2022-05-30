@@ -96,7 +96,7 @@ _Current Profile Visits_ - ![Profile views](https://gpvc.arturio.dev/ItzzNeo13)
 ## My Current Activities -
 
 ### Discord Activity -
-<a href="https://discord.com/users/756200102342688788"><img src="https://lanyard.cnrad.dev/api/756200102342688788?theme=dark&idleMessage=Stoicism%20|%20Eudamoniac"></a>
+<a href="https://discord.com/users/756200102342688788"><img src="https://lanyard.cnrad.dev/api/756200102342688788?theme=dark&idleMessage=Minimal%20|%20Stoic%20|%20Eudaimonia"></a>
 
 #
 
