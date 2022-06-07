@@ -11,7 +11,7 @@ About me -
 
 - 📫 How to reach me - Best way to contact me is [here](https://itzzneo13.github.io/contact.html) or you can drop a mail to devneo13@gmail.com
 
-- ⚡ Fun fact - **I have a organization that might help you. Check it out [here](https://github.com/TheMarkdownNerds)**
+- ⚡ Fun fact - I have recently made a VS Code theme. Check it out [here](https://marketplace.visualstudio.com/items?itemName=ItzzNeo1305.minimal-theme) & Theme Repo [here](https://github.com/ItzzNeo13/Minimal-Theme)
 
 ##
 
