@@ -87,6 +87,13 @@ _Current Profile Visits_ - ![Profile views](https://gpvc.arturio.dev/ItzzNeo13)
 <a href="https://spotify.com"><img src="https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://fonts.google.com"><img src="https://img.shields.io/badge/Google%20Fonts-4285F4.svg?style=for-the-badge&logo=Google-Fonts&logoColor=white" alt="Google Fonts"></a>
 <a href="https://shields.io"><img src="https://img.shields.io/badge/Shields.io-000000.svg?style=for-the-badge&logo=shieldsdotio&logoColor=white" alt="shield.io"></a>
+<a href="https://www.dolby.com/experience/samsung/"><img src="https://img.shields.io/badge/Dolby-000000.svg?style=for-the-badge&logo=Dolby&logoColor=white" alt="Dolby"></a>
+<a href="https://www.mozilla.org/en-US/firefox/new/"><img src="https://img.shields.io/badge/Firefox%20Browser-FF7139.svg?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Firefox"></a>
+<a href="https://brave.com/"><img src="https://img.shields.io/badge/Brave-FB542B.svg?style=for-the-badge&logo=Brave&logoColor=white" alt="Brave"></a>
+<a href="https://pages.github.com/"><img src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white" alt="GitHubPages"></a>
+<a href="https://railway.app/"><img src="https://img.shields.io/badge/Railway-0B0D0E.svg?style=for-the-badge&logo=Railway&logoColor=white" alt="Railway"></a>
+<a href="https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en"><img src="https://img.shields.io/badge/uBlock%20Origin-800000.svg?style=for-the-badge&logo=uBlock-Origin&logoColor=white" alt="UBlockOrigin"></a>
+<a href="https://www.wikipedia.org/"><img src="https://img.shields.io/badge/Wikipedia-000000.svg?style=for-the-badge&logo=Wikipedia&logoColor=white" alt="Wikipedia"></a>
 </div>
 </details>
 
