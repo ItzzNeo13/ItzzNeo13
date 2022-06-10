@@ -7,7 +7,7 @@
 About me -
 - 🔭 Contributing to: [@url-reaper](https://github.com/url-reaper), [@TheMarkdownNerds](https://github.com/TheMarkdownNerds) & [@Team-Dark-Developers](https://github.com/Team-Dark-Developers)
 
-- 🌱 I’m currently learning **UI development**
+- 🌱 I’m currently learning **UI Designing**
 
 - 📫 How to reach me - Best way to contact me is [here](https://itzzneo13.github.io/contact.html) or you can drop a mail to devneo13@gmail.com
 
