@@ -5,7 +5,7 @@
 <br>
 
 About me -
-- 🔭 Contributing to: [@url-reaper](https://github.com/url-reaper), [@TheMarkdownNerds](https://github.com/TheMarkdownNerds) & [@Team-Dark-Developers](https://github.com/Team-Dark-Developers)
+- 🔭 Contributing to: [@url-reaper](https://github.com/url-reaper) & [@Team-Dark-Developers](https://github.com/Team-Dark-Developers)
 
 - 🌱 I’m currently learning **UI Designing**
 
