@@ -26,6 +26,11 @@ _Current Twitter Followers_ - ![Twitter](https://img.shields.io/twitter/follow/i
 _Current Github Sponsors_ - ![Github](https://img.shields.io/github/sponsors/Itzzneo13)
 
 _Current Profile Visits_ - ![Profile views](https://gpvc.arturio.dev/ItzzNeo13)
+ 
+ 
+_Current TryHackMe Stats_ -
+ 
+ <a href="https://tryhackme.com/p/ItzzNeo13"><img src="https://tryhackme-badges.s3.amazonaws.com/ItzzNeo13.png" alt="TryHackMe"></a>
 
 #
  
