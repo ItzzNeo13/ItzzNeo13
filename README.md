@@ -1,6 +1,10 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Prasad!
 <!--<img src="./kali-preview-boot.gif" alt="Kali" width="225" height="225"></h2>-->
 <h3>A passionate Bot, Web & UI Developer and CS Enthusiast from India</h3>
+ 
+<br>
+ 
+<div align="center"><img src="https://komarev.com/ghpvc/?username=ItzzNeo13&color=000000&style=for-the-badge" alt="Profile Views"></div>
 
 <br>
 
@@ -17,17 +21,17 @@ About me -
 
 **Current social media stats** -
 
-_Current Reddit Karma_ - ![Reddit](https://img.shields.io/reddit/user-karma/combined/neomaster13?style=social)
+_Reddit Karma_ - ![Reddit](https://img.shields.io/reddit/user-karma/combined/neomaster13?style=for-the-badge&logo=Reddit&logoColor=white)
 
-_Current YouTube subscribers_ - ![YouTube](https://img.shields.io/youtube/channel/subscribers/UCQk5c315mey6VOzdB8Rhs5w?style=social)
+_YouTube subscribers_ - ![YouTube](https://img.shields.io/youtube/channel/subscribers/UCQk5c315mey6VOzdB8Rhs5w?style=for-the-badge&logo=YouTube&logoColor=white)
 
-_Current Twitter Followers_ - ![Twitter](https://img.shields.io/twitter/follow/itzzneo13?style=social)
+_Twitter Followers_ - ![Twitter](https://img.shields.io/twitter/follow/itzzneo13?style=for-the-badge&logo=Twitter&logoColor=white&color=000000)
 
-_Current Github Sponsors_ - ![Github](https://img.shields.io/github/sponsors/Itzzneo13)
 
-_Current Profile Visits_ - ![Profile views](https://gpvc.arturio.dev/ItzzNeo13)
  
-<img src="https://tryhackme-badges.s3.amazonaws.com/ItzzNeo13.png" alt="TryHackMe">
+_TryHackMe Stats_ - 
+ 
+ ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/ItzzNeo13.png?4)
  
 #
  
@@ -130,7 +134,7 @@ _Current Profile Visits_ - ![Profile views](https://gpvc.arturio.dev/ItzzNeo13)
 
  #
  
- <a href="https://github.com/ItzzNeo13" alt="https://github.com/ItzzNeo13"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=ItzzNeo13&color=000000"></a>
+ <a href="https://github.com/ItzzNeo13" alt="https://github.com/ItzzNeo13"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=ItzzNeo13&color=000000&logo=GitHub"></a>
 <img src="https://img.shields.io/github/license/ItzzNeo13/ItzzNeo13?style=for-the-badge">
 </div>
 
