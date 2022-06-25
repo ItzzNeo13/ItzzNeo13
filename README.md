@@ -31,7 +31,7 @@ _Twitter Followers_ - ![Twitter](https://img.shields.io/twitter/follow/itzzneo13
  
 _TryHackMe Stats_ - 
  
- ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/ItzzNeo13.png?4)
+ ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/ItzzNeo13.png?7)
  
 #
  
@@ -109,7 +109,7 @@ _TryHackMe Stats_ -
 ## My Current Activities -
 
 ### Discord Activity -
-<a href="https://discord.com/users/756200102342688788"><img src="https://lanyard.cnrad.dev/api/756200102342688788?theme=dark&idleMessage=Minimal%20|%20Stoic%20|%20Eudaimonia"></a>
+<a href="https://discord.com/users/756200102342688788"><img src="https://lanyard.cnrad.dev/api/756200102342688788?theme=dark&idleMessage=Inactive%20due%20to%20College"></a>
 
 #
 
