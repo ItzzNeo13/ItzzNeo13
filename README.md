@@ -127,10 +127,10 @@ _TryHackMe Stats_ -
 #
 ### Repo Stats - 
 <div align="center">
-<img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">
-<img src="https://img.shields.io/github/stars/ItzzNeo13/ItzzNeo13.svg">
-<img src="https://img.shields.io/github/forks/ItzzNeo13/ItzzNeo13.svg">
-<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
+<img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge">
+<img src="https://img.shields.io/github/stars/ItzzNeo13/ItzzNeo13.svg?style=for-the-badge">
+<img src="https://img.shields.io/github/forks/ItzzNeo13/ItzzNeo13.svg?style=for-the-badge">
+<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge">
 
  #
  
