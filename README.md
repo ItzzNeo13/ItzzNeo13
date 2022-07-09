@@ -75,9 +75,9 @@ _TryHackMe Stats_ -
 
 <details><summary><h3>Os, Softwares and tools I use - </h3></summary><h4>OS:</h4>
 <div>
-<img src="https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white" alt="Windows">
+<img src="https://img.shields.io/badge/Windows-10-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white" alt="Windows">
 <a href="https://kali.org"><img src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white" alt="Kali Linux"></a>
-<img src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white" at="Android">
+<img src="https://img.shields.io/badge/Android-12-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white" at="Android">
 </div>
 
 
