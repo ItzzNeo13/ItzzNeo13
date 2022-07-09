@@ -97,7 +97,6 @@ _TryHackMe Stats_ -
 <a href="https://www.mozilla.org/en-US/firefox/new/"><img src="https://img.shields.io/badge/Firefox%20Browser-FF7139.svg?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Firefox"></a>
 <a href="https://brave.com/"><img src="https://img.shields.io/badge/Brave-FB542B.svg?style=for-the-badge&logo=Brave&logoColor=white" alt="Brave"></a>
 <a href="https://pages.github.com/"><img src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white" alt="GitHubPages"></a>
-<a href="https://railway.app/"><img src="https://img.shields.io/badge/Railway-0B0D0E.svg?style=for-the-badge&logo=Railway&logoColor=white" alt="Railway"></a>
 <a href="https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en"><img src="https://img.shields.io/badge/uBlock%20Origin-800000.svg?style=for-the-badge&logo=uBlock-Origin&logoColor=white" alt="UBlockOrigin"></a>
 <a href="https://www.wikipedia.org/"><img src="https://img.shields.io/badge/Wikipedia-000000.svg?style=for-the-badge&logo=Wikipedia&logoColor=white" alt="Wikipedia"></a>
 </div>
