@@ -11,7 +11,7 @@
 About me -
 - 🔭 Contributing to: [@Team-Dark-Developers](https://github.com/Team-Dark-Developers)
 
-- 🌱 I’m currently learning **UI Designing**
+- 🌱 I’m currently learning **UI Designing & Advanced PenTesting**
 
 - 📫 How to reach me - Best way to contact me is [here](https://itzzneo13.github.io/contact.html) or you can drop a mail to devneo13@gmail.com
 
