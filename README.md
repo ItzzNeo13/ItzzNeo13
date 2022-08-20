@@ -27,11 +27,6 @@ _YouTube subscribers_ - ![YouTube](https://img.shields.io/youtube/channel/subscr
 
 _Twitter Followers_ - ![Twitter](https://img.shields.io/twitter/follow/itzzneo13?style=for-the-badge&logo=Twitter&logoColor=white&color=000000)
 
-
- 
-_TryHackMe Stats_ - 
- 
- ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/ItzzNeo13.png?7)
  
 #
  
@@ -52,10 +47,13 @@ _TryHackMe Stats_ -
 <a href="https://www.reddit.com/user/neomaster13" target="_blank">
 <img src=https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white alt=reddit style="margin-bottom: 5px;" />
 </a>
+<a href="https://www.linkedin.com/in/itzzneo13/" target="_blank">
+<img src=https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 <a href="https://discord.gg/VbbnMzV9RZ" target="_blank">
 <img src=https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
- 
+
 </div>
 
 
@@ -65,6 +63,7 @@ _TryHackMe Stats_ -
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black">
 <img src="https://img.shields.io/badge/HTML-F06529?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white">
+<!--<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">-->
 <!--<br>-->
 <img src="https://img.shields.io/badge/CSS-2965F1?&style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
@@ -108,7 +107,7 @@ _TryHackMe Stats_ -
 ## My Current Activities -
 
 ### Discord Activity -
-<a href="https://discord.com/users/756200102342688788"><img src="https://lanyard.cnrad.dev/api/756200102342688788?theme=dark&idleMessage=Inactive%20due%20to%20College"></a>
+<a href="https://discord.com/users/756200102342688788"><img src='https://lanyard.cnrad.dev/api/756200102342688788?theme=dark&idleMessage=print%20(%20"%20fearless%20"%20)'></a>
 
 #
 
