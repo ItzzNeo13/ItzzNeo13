@@ -11,7 +11,7 @@
 About me -
 - 🔭 Contributing to: [@Team-Dark-Developers](https://github.com/Team-Dark-Developers)
 
-- 🌱 I’m currently learning **UI Designing & Advanced PenTesting**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me - Best way to contact me is [here](https://itzzneo13.github.io/contact.html) or you can drop a mail to devneo13@gmail.com
 
@@ -54,6 +54,7 @@ _Twitter Followers_ - ![Twitter](https://img.shields.io/twitter/follow/itzzneo13
 <img src=https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 
+
 </div>
 
 
@@ -68,6 +69,7 @@ _Twitter Followers_ - ![Twitter](https://img.shields.io/twitter/follow/itzzneo13
 <img src="https://img.shields.io/badge/CSS-2965F1?&style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
 </div>
 
 #
@@ -98,7 +100,10 @@ _Twitter Followers_ - ![Twitter](https://img.shields.io/twitter/follow/itzzneo13
 <a href="https://pages.github.com/"><img src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white" alt="GitHubPages"></a>
 <a href="https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en"><img src="https://img.shields.io/badge/uBlock%20Origin-800000.svg?style=for-the-badge&logo=uBlock-Origin&logoColor=white" alt="UBlockOrigin"></a>
 <a href="https://www.wikipedia.org/"><img src="https://img.shields.io/badge/Wikipedia-000000.svg?style=for-the-badge&logo=Wikipedia&logoColor=white" alt="Wikipedia"></a>
+<a href="https://app.netlify.com"><img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white" alt="Netlify"></a>
 </div>
+<a href="https://notion.so"><img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion"></a>
+<a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap"></a>
 </details>
 
 #
