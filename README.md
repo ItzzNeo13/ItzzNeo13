@@ -1,6 +1,6 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Prasad!
 <!--<img src="./kali-preview-boot.gif" alt="Kali" width="225" height="225"></h2>-->
-<h3>A passionate Bot, Web & UI Developer and CS Enthusiast from India</h3>
+<h3>Web Developer | UI Designer | Cyber Security Enthusiast from India 🇮🇳</h3>
  
 <br>
  
@@ -11,11 +11,11 @@
 About me -
 - 🔭 Contributing to: [@Team-Dark-Developers](https://github.com/Team-Dark-Developers)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **UI Designing**
 
 - 📫 How to reach me - Best way to contact me is [here](https://itzzneo13.github.io/contact.html) or you can drop a mail to devneo13@gmail.com
 
-- ⚡ Fun fact - I have recently made a VS Code theme. Check it out [here](https://marketplace.visualstudio.com/items?itemName=ItzzNeo1305.minimal-theme) & Theme Repo [here](https://github.com/ItzzNeo13/Minimal-Theme)
+- ⚡ Fun fact - I have made a VS Code theme. Check it out [here](https://marketplace.visualstudio.com/items?itemName=ItzzNeo1305.minimal-theme) & Theme Repo [here](https://github.com/ItzzNeo13/Minimal-Theme)
 
 ##
 
