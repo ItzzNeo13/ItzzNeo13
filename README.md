@@ -18,17 +18,6 @@ About me -
 - ⚡ Fun fact - I have made a VS Code theme. Check it out [here](https://marketplace.visualstudio.com/items?itemName=ItzzNeo1305.minimal-theme) & Theme Repo [here](https://github.com/ItzzNeo13/Minimal-Theme)
 
 ##
-
-**Current social media stats** -
-
-_Reddit Karma_ - ![Reddit](https://img.shields.io/reddit/user-karma/combined/neomaster13?style=for-the-badge&logo=Reddit&logoColor=white)
-
-_YouTube subscribers_ - ![YouTube](https://img.shields.io/youtube/channel/subscribers/UCQk5c315mey6VOzdB8Rhs5w?style=for-the-badge&logo=YouTube&logoColor=white)
-
-_Twitter Followers_ - ![Twitter](https://img.shields.io/twitter/follow/itzzneo13?style=for-the-badge&logo=Twitter&logoColor=white&color=000000)
-
- 
-#
  
 <h3 align="center">Check out my socials: </h3>
 <div align="center">
