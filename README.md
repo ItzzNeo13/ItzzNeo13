@@ -6,16 +6,18 @@
  
 <div align="center"><img src="https://komarev.com/ghpvc/?username=ItzzNeo13&color=000000&style=for-the-badge" alt="Profile Views"></div>
 
-<br>
+#
 
-About me -
+ <b>About me -</b>
 - 🔭 Contributing to: [@Team-Dark-Developers](https://github.com/Team-Dark-Developers)
 
-- 🌱 I’m currently learning **UI Designing**
+- 🌱 I’m currently learning **User Experience Designing** & **Search Engine Optimization**
 
-- 📫 How to reach me - Best way to contact me is [here](https://itzzneo13.github.io/contact.html) or you can drop a mail to devneo13@gmail.com
+- 📫 How to reach me - Mail, Twitter and Contact Page of my website [here](https://itzzneo13.github.io/contact.html)
 
 - ⚡ Fun fact - I have made a VS Code theme. Check it out [here](https://marketplace.visualstudio.com/items?itemName=ItzzNeo1305.minimal-theme) & Theme Repo [here](https://github.com/ItzzNeo13/Minimal-Theme)
+ 
+ <br>
 
 ##
  
@@ -39,10 +41,6 @@ About me -
 <a href="https://www.linkedin.com/in/itzzneo13/" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://discord.gg/VbbnMzV9RZ" target="_blank">
-<img src=https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-
 
 </div>
 
