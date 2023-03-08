@@ -94,8 +94,7 @@
 <a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap"></a>
 </details>
 
-#
-
+<div align="center">
 
 ## My Current Activities -
 
@@ -114,10 +113,12 @@
 [![Stats Overview](https://raw.githubusercontent.com/ItzzNeo13/github-stats-transparent/output/generated/overview.svg)](https://github.com/rahul-jha98/github-stats-transparent)
 
 ![Repo-Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzzNeo13&theme=dark)
+</div
 
 #
-### Repo Stats - 
 <div align="center">
+
+### Repo Stats -
 <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge">
 <img src="https://img.shields.io/github/stars/ItzzNeo13/ItzzNeo13.svg?style=for-the-badge">
 <img src="https://img.shields.io/github/forks/ItzzNeo13/ItzzNeo13.svg?style=for-the-badge">
@@ -125,7 +126,7 @@
 
  #
  
- <a href="https://github.com/ItzzNeo13" alt="https://github.com/ItzzNeo13"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=ItzzNeo13&color=000000&logo=GitHub"></a>
+<a href="https://github.com/ItzzNeo13" alt="https://github.com/ItzzNeo13"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=ItzzNeo13&color=000000&logo=GitHub"></a>
 <img src="https://img.shields.io/github/license/ItzzNeo13/ItzzNeo13?style=for-the-badge">
 </div>
 
