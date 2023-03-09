@@ -9,9 +9,9 @@
 #
 
  <b>About me -</b>
-- 🔭 Contributing to: [@Team-Dark-Developers](https://github.com/Team-Dark-Developers)
+- 🔭 Contributed to: [@Team-Dark-Developers](https://github.com/Team-Dark-Developers)
 
-- 🌱 I’m currently learning **User Experience Designing** & **Search Engine Optimization**
+- 🌱 I’m currently learning **SQL**
 
 - 📫 How to reach me - Mail, Twitter and Contact Page of my website [here](https://itzzneo13.github.io/contact.html)
 
