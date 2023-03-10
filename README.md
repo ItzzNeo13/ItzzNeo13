@@ -1,5 +1,4 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Prasad!
-<!--<img src="./kali-preview-boot.gif" alt="Kali" width="225" height="225"></h2>-->
 <h3>Web Developer | UI Designer | Cyber Security Enthusiast from India 🇮🇳</h3>
  
 <br>
@@ -110,11 +109,11 @@
 
 ### GitHub Overview - 
 
-[![Stats Overview](https://raw.githubusercontent.com/ItzzNeo13/github-stats-transparent/output/generated/overview.svg)](https://github.com/rahul-jha98/github-stats-transparent)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzzNeo13&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Repo-Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzzNeo13&theme=dark)
 </div
-
+&show_icons=true
 #
 <div align="center">
 
