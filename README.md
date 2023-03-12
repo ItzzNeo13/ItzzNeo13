@@ -98,7 +98,7 @@
 ## My Current Activities -
 
 ### Discord Activity -
-<a href="https://discord.com/users/756200102342688788"><img src='https://lanyard.cnrad.dev/api/756200102342688788?theme=dark&idleMessage=print%20(%20"%20fearless%20"%20)'></a>
+<a href="https://discord.com/users/756200102342688788"><img src='https://lanyard.cnrad.dev/api/756200102342688788?theme=dark&idleMessage=%20(%20Inactive%20)'></a>
 
 #
 
@@ -111,9 +111,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzzNeo13&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Repo-Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzzNeo13&theme=dark)
-</div
-&show_icons=true
+![Repo-Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzzNeo13&theme=dark&show_icons=true)
+</div>
+
 #
 <div align="center">
 
