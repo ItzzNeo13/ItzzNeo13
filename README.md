@@ -61,50 +61,33 @@
 
 #
 
-<details><summary><h3>Os, Softwares and tools I use - </h3></summary><h4>OS:</h4>
+ <details><summary><h3>Projects Stats:</h3></summary>
 <div>
-<img src="https://img.shields.io/badge/Windows-10-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white" alt="Windows">
-<a href="https://kali.org"><img src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=Kali-Linux&logoColor=white" alt="Kali Linux"></a>
-<img src="https://img.shields.io/badge/Android-12-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white" at="Android">
-</div>
 
-
-#
-
-<h4>Softwares & tools:</h4>
 <div>
-<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="VS Code"></a>
-<a href="https://figma.com"><img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt"Figma">
-<a href="https://www.canva.com/"><img src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
-<a href="https://dribbble.com/"><img src="https://img.shields.io/badge/Dribbble-EA4C89.svg?style=for-the-badge&logo=Dribbble&logoColor=white" alt="Dribbble"></a><br>
-<a href="https://stackoverflow.com"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white" alt="Stack Overflow"></a>
-<a href="https://spotify.com"><img src="https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://fonts.google.com"><img src="https://img.shields.io/badge/Google%20Fonts-4285F4.svg?style=for-the-badge&logo=Google-Fonts&logoColor=white" alt="Google Fonts"></a>
-<a href="https://shields.io"><img src="https://img.shields.io/badge/Shields.io-000000.svg?style=for-the-badge&logo=shieldsdotio&logoColor=white" alt="shield.io"></a>
-<a href="https://www.dolby.com/experience/samsung/"><img src="https://img.shields.io/badge/Dolby-000000.svg?style=for-the-badge&logo=Dolby&logoColor=white" alt="Dolby"></a>
-<a href="https://www.mozilla.org/en-US/firefox/new/"><img src="https://img.shields.io/badge/Firefox%20Browser-FF7139.svg?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Firefox"></a>
-<a href="https://brave.com/"><img src="https://img.shields.io/badge/Brave-FB542B.svg?style=for-the-badge&logo=Brave&logoColor=white" alt="Brave"></a>
-<a href="https://pages.github.com/"><img src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white" alt="GitHubPages"></a>
-<a href="https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en"><img src="https://img.shields.io/badge/uBlock%20Origin-800000.svg?style=for-the-badge&logo=uBlock-Origin&logoColor=white" alt="UBlockOrigin"></a>
-<a href="https://www.wikipedia.org/"><img src="https://img.shields.io/badge/Wikipedia-000000.svg?style=for-the-badge&logo=Wikipedia&logoColor=white" alt="Wikipedia"></a>
-<a href="https://app.netlify.com"><img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white" alt="Netlify"></a>
-</div>
-<a href="https://notion.so"><img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion"></a>
-<a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap"></a>
+<p>Click on the stats card to check out each repo.</p>
+<table>
+  <tr>
+    <th>Visual Studio Code Theme</th>
+    <th>Profile Card (Terminal)</th>
+    <th>Quiz App (Terminal)</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ItzzNeo13/Minimal-Theme" alt=" Theme Installs"><img src="https://img.shields.io/visual-studio-marketplace/i/ItzzNeo1305.minimal-theme?style=for-the-badge"></a></td>
+    <td><a href="https://github.com/ItzzNeo13/npm-card"><img src="https://img.shields.io/npm/dw/itzzneo13?style=flat-square&logo=npm" alt="Card Downloads"></a></td>
+    <td><a href="https://github.com/ItzzNeo13/command-line-app"><img src="https://img.shields.io/npm/dw/neoquiz?style=flat-square&logo=npm" alt="Quiz Downloads"></a></td>
+  </tr>
+ </table>
 </details>
-
+</div>
+ 
+#
+  
 <div align="center">
-
-## My Current Activities -
 
 ### Discord Activity -
 <a href="https://discord.com/users/756200102342688788"><img src='https://lanyard.cnrad.dev/api/756200102342688788?theme=dark&idleMessage=%20(%20Inactive%20)'></a>
 
-#
-
-### Spotify Activity - 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dc90xmqlj32pxk5pqxwdyxt8w&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=dc90xmqlj32pxk5pqxwdyxt8w&redirect=true)
 #
 
 ### GitHub Overview - 
