@@ -15,6 +15,8 @@
 - 📫 How to reach me - Mail, Twitter and Contact Page of my website [here](https://itzzneo13.github.io/contact.html)
 
 - ⚡ Fun fact - I have made a VS Code theme. Check it out [here](https://marketplace.visualstudio.com/items?itemName=ItzzNeo1305.minimal-theme) & Theme Repo [here](https://github.com/ItzzNeo13/Minimal-Theme)
+
+- 💳 MetaMask Wallet Address - `0x34aFB55e7Be98537fa36a52a011BE079a7710315`
  
  <br>
 
