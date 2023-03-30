@@ -109,6 +109,9 @@
 
 #
 
+### Wakatime Activity -
+[![wakatime](https://wakatime.com/badge/user/174d4851-ca82-4c27-ba0d-fbc4a60c1916.svg)](https://wakatime.com/@174d4851-ca82-4c27-ba0d-fbc4a60c1916)
+
 ### GitHub Overview - 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzzNeo13&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
