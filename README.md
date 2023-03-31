@@ -110,13 +110,13 @@
 #
 
 ### Wakatime Activity -
-[![wakatime](https://wakatime.com/badge/user/174d4851-ca82-4c27-ba0d-fbc4a60c1916.svg)](https://wakatime.com/@174d4851-ca82-4c27-ba0d-fbc4a60c1916)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itzzneo13)](https://github.com/anuraghazra/github-readme-stats)
 
 ### GitHub Overview - 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzzNeo13&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Repo-Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzzNeo13&theme=dark&show_icons=true)
+[![Repo-Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzzNeo13&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 #
