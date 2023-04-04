@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **React.js**.
  
-- 📆 I'm planning to: Try out Game Development with JavaScript.
+- 📆 I'm planning to: Learn React Native or Next.js
 
 - 📫 How to reach me - Mail, Twitter and Contact Page of my website [here](https://itzzneo13.github.io/contact.html)
 
