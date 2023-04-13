@@ -13,9 +13,9 @@
  
 - 🔭 Contributed to: [@Team-Dark-Developers](https://github.com/Team-Dark-Developers)
 
-- 🌱 I’m currently learning **React.js**.
+- 🌱 I’m currently learning **PHP**.
  
-- 📆 I'm planning to: Learn React Native or Next.js
+- 📆 I'm planning to: get skilled in Frontend.
 
 - 📫 How to reach me - Mail, Twitter and Contact Page of my website [here](https://itzzneo13.github.io/contact.html)
 
