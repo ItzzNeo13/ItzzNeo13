@@ -104,6 +104,9 @@
   
 <div align="center">
 
+ ### Coding Activity -
+ [![CodeTime badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17113%26project%3D%26in%3D0)](https://codetime.dev)
+ 
 ### Discord Activity -
 <a href="https://discord.com/users/756200102342688788"><img src='https://lanyard.cnrad.dev/api/756200102342688788?theme=dark&idleMessage=%20(%20Somewhat%20Active%20)'></a>
 
