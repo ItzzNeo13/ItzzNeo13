@@ -38,18 +38,15 @@
 <a href="https://open.spotify.com/user/dc90xmqlj32pxk5pqxwdyxt8w?si=UjaAw4VzRBeY9YSRkRFKPA" target="_blank">
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt=spotify style="margin-bottom: 5px;" />
 </a>
+ <br>
 <a href="https://app.hackthebox.com/profile/1166771" target="_blank">
 <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=white" alt=hackthebox style="margin-bottom: 5px;" />
 </a>
-<br>
 <a href="https://www.reddit.com/user/neomaster13" target="_blank">
 <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white alt=reddit" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/itzzneo13/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.sololearn.com/profile/28400142" target="_blank">
-<img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" alt=sololearn style="margin-bottom: 5px;" />
 </a>
 </div>
 
