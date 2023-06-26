@@ -9,13 +9,13 @@
 
  <b>About me -</b>
  
- - 📆 **I have currently taken a break from coding and am focusing on UI and Graphic Designing.**
+ - 📆 **I have currently taken a break from coding new personal projects**
  
 - 📍 From: Mumbai, India. 
  
 - 🔭 Contributed to: [@Team-Dark-Developers](https://github.com/Team-Dark-Developers)
 
-- 🌱 I’m currently learning UI Designing.
+- 🌱 I’m currently studying.
 
 - 📫 How to reach me - Mail, Twitter and Contact Page of my website [here](https://itzzneo13.netlify.app/contact.html)
 
