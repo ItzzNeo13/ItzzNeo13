@@ -20,8 +20,6 @@
 - 📫 How to reach me - Mail, Twitter and Contact Page of my website [here](https://itzzneo13.netlify.app/contact.html)
 
 - ⚡ Fun fact - I have made a VS Code theme. Check it out [here](https://marketplace.visualstudio.com/items?itemName=ItzzNeo1305.minimal-theme) & Theme Repo [here](https://github.com/ItzzNeo13/Minimal-Theme)
-
-- ☕ Support Me - [BuyMeACoffee (Setup under progress...)](https://www.buymeacoffee.com/itzzneo13)
  
  <br>
 
