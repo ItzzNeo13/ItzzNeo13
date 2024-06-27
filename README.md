@@ -25,9 +25,9 @@
 
 SOCIALS:
 
-<a href="https://twitter.com/ItzzNeo13" title="Follow!"> X (Twitter)</a> | 
-<a href="https://linkedin.com/in/itzzneo13/" title="For non-code things..">LinkedIn</a> |
-<a href="https://medium.com/@itzzneo1305" title="Articles here!">Medium</a>
+<a href="https://twitter.com/ItzzNeo13" target="_blank"> X (Twitter)</a> | 
+<a href="https://linkedin.com/in/itzzneo13/" target="_blank">LinkedIn</a> |
+<a href="https://medium.com/@itzzneo13" target="_blank">Medium</a>
 
 ---
 
